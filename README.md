@@ -21,8 +21,8 @@ The below table must contain the details of the repositories you will create, fi
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 |  Communicating Data Findings           | This project  performs Exploratory Data Analysis on the ford gobike trip dataset an communicate the findings using a slide show.            | https://github.com/Bright136/Communicating-Data-Findings-Udacity-Data-Analyst-Nanodegree-      |
-| 2 |  Simple Calculator App             |  This project uses the Kivy language and Python to create a calculator that performs basic operations-add, substract, multiply and divide            | https://github.com/Bright136/Simple-Calculator-App      |
-| 3 |  100 Greatest Movies of All Time             |  This project uses Beautiful Soup to scrape the 100 best movies of all time according to empire from their empireonline website             | https://github.com/Bright136/100-Greatest-Movies-of-All-Time     |
+| 2 |  Simple Calculator App             |  This project uses the Kivy language and Python to create a calculator that performs basic operations-add, substract, multiply and divide.            | https://github.com/Bright136/Simple-Calculator-App      |
+| 3 |  100 Greatest Movies of All Time             |  This project uses Beautiful Soup to scrape the 100 best movies of all time according to empire from their empireonline website.             | https://github.com/Bright136/100-Greatest-Movies-of-All-Time     |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
